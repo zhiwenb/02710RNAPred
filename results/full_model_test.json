@@ -1,9 +1,0 @@
-{
-    "avg_sensitivity": 0.16048987098392176,
-    "avg_ppv": 0.18498474385739522,
-    "avg_f1": 0.17186893855748858,
-    "avg_positional_accuracy": 0.7531684366264534,
-    "avg_pk_accuracy": 0.9886061526775541,
-    "avg_energy_mae": 1.7920440981483623,
-    "total_samples": 2633
-}
